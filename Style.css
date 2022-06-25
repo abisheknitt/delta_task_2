@@ -1,0 +1,17 @@
+#frame{
+    width: 800px;
+    height: 700px;
+    background-color: #0b2917;
+}
+#circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: wheat;
+    position: absolute;
+}
+.block{
+    height: 20px;
+    position: relative;
+    background-color: grey;
+}
